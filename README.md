@@ -1,0 +1,2 @@
+# SphericalGravity
+ Touchdesigner spherical gravity
