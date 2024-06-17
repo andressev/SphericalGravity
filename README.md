@@ -1,7 +1,7 @@
 # SphericalGravity
  Touchdesigner spherical gravity
 
- Controles
+ #Controles
 
  1-2 para moverel ángulo phi(ángulo con referencia al eje z) en la transformación a polares
 
